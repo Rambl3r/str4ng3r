@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## I'm starting out with GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Rambl3r/str4ng3r/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I used the [editor on GitHub](https://github.com/Rambl3r/str4ng3r/edit/master/README.md) to maintain and preview the content for my website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in your Markdown files. (I think? I might try to change this...)
 
 ### Markdown
 
